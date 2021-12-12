@@ -16,7 +16,7 @@ If the connection is successful, run the commands in debezium.sql
 Now out database, table, data of the table and debezium tracking of the table stuffs are ready.
 
 Now we can connect our debezium connector that we created with the docker-compose file. The URl is: http://localhost:8083/connectors
-Go this url with postman or another tool and POST the data in body in the connector-config file 
+Go this url with postman or another tool and POST the data in body in the connector-config file:
 
 
    ![image](https://user-images.githubusercontent.com/2387879/145709963-37353c35-b47e-4646-b452-dfd41965a777.png)
