@@ -9,7 +9,7 @@ http://localhost:8083/connectors/
         "database.hostname": "sqlserver",
         "database.port": "1433",
         "database.user": "sa",
-        "database.password": "Password123321",
+        "database.password": "Pass12&=",
         "database.dbname": "Inventory",
         "database.history.kafka.bootstrap.servers": "kafka:29092",
         "database.history.kafka.topic": "dbo.Stock",
